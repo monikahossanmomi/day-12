@@ -60,13 +60,11 @@ p:last-child {
 .hero-area-bg h2{
     line-height: 1px;
     font-family: Roboto;
-    font-style: bold;
     color: #f8f8f8;
     padding-top: 150px;
 }
 .hero-area-bg h5{
     font-family: Roboto;
-    font-style: Thin;
     color: #f8f8f8;
     line-height: 41px;
 }
@@ -93,7 +91,15 @@ p:last-child {
 #m{
     padding-top: 41px;
 }
+#m-1{
+    padding-top: 41px;
+}
 #prod{
+    height: 364px;
+    color: #717171;
+    text-align: center;
+}
+#prod-1{
     height: 364px;
     color: #717171;
     text-align: center;
@@ -122,7 +128,6 @@ p:last-child {
     width:1190px;
 }
 .tx-sm{
-    font-weight:111;
     font-size:14px;
     text-align: center;
 }
